@@ -17,7 +17,7 @@
 
 </div>
 
-## ⚠️ Wayland is disabled by default due to [issue](https://github.com/trzy/Supermodel/issues/133) ⚠️
+## ⚠️ Wayland is disabled by default due to upstream [issue](https://github.com/trzy/Supermodel/issues/133) ⚠️
 
 ---
 
