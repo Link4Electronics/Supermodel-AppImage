@@ -1,3 +1,4 @@
+#!/bin/false
 dir=${XDG_CONFIG_HOME:-~/.config}/supermodel
 if [ ! -f "dir"/Config/Games.xml ]; then
   mkdir -p "$dir"
